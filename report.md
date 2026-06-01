@@ -207,17 +207,58 @@
 | **TC01** | Bật/Tắt máy lạnh bằng nút Nguồn trên remote. | Pin remote hoạt động bình thường, máy lạnh đã được cắm nguồn điện (chế độ chờ). | 1. Hướng remote về phía máy lạnh.<br>2. Nhấn nút Nguồn.<br>3. Đợi máy lạnh khởi động, sau đó nhấn nút Nguồn lần nữa để tắt. | Lần nhấn 1: Dàn lạnh kêu tiếng bíp, cánh quạt mở ra, màn hình hiển thị nhiệt độ sáng lên, gió bắt đầu thổi ra. <br> Lần nhấn 2: Dàn lạnh kêu bíp, cánh quạt đóng lại từ từ và quạt dừng hẳn. | Dàn lạnh kêu bíp, cánh quạt mở ra và gió thổi mát lập tức khi bật. Khi tắt, cánh quạt tự động khép kín và quạt dừng hẳn. | PASS |
 | **TC02** | Tăng/Giảm nhiệt độ bằng phím mũi tên Lên/Xuống. | Máy lạnh đang bật ở chế độ COOL, nhiệt độ hiển thị ban đầu là 24°C. | 1. Nhấn nút mũi tên Lên 3 lần.<br>2. Nhấn nút mũi tên Xuống 5 lần. | Nhiệt độ tăng dần lên 25°C, 26°C, 27°C hiển thị trên remote/dàn lạnh. Sau đó giảm dần xuống 26°C, 25°C, 24°C, 23°C, 22°C tương ứng. | Nhiệt độ trên dàn LED thay đổi chính xác theo từng lần bấm: tăng từ 24 lên 27°C, giảm từ 27 xuống 22°C. | PASS |
 | **TC03** | Chuyển đổi giữa các chế độ hoạt động bằng nút MODE. | Máy lạnh đang bật. Nút MODE trên remote. | Nhấn liên tục nút MODE để chuyển qua các chế độ: Cool (Làm lạnh) -> Dry (Hút ẩm) -> Fan (Quạt gió) -> Auto (Tự động). | Biểu tượng chế độ hiển thị trên màn hình remote thay đổi tương ứng (hình bông tuyết, giọt nước, cánh quạt, vòng xoay). Dàn lạnh thay đổi hành vi thổi gió tương ứng. | Hệ thống đáp ứng mượt mà, đổi biểu tượng trên remote và chế độ gió (COOL thổi lạnh, DRY khô nhẹ, FAN gió thường). | PASS |
-| **TC04** | Kích hoạt/Tắt chế độ làm lạnh nhanh bằng nút TURBO. | Máy lạnh đang hoạt động ở chế độ COOL. | 1. Nhấn nút TURBO trên remote.<br>2. Đợi 3 phút, nhấn nút TURBO lần nữa. | Khi bật: Biểu tượng TURBO hiện trên màn hình remote, quạt gió dàn lạnh chạy với công suất cao nhất, tiếng gió thổi mạnh hơn rõ rệt. Khi tắt: Quạt gió quay về tốc độ trước khi kích hoạt. | Khi bật Turbo, quạt chạy ở tốc độ cực đại phát ra tiếng gió lớn. Tắt Turbo quạt trở về tốc độ vừa phải. | PASS |
+| **TC04** | Kích hoạt/Tắt chế độ làm lạnh nhanh bằng nút TURBO. | Máy lạnh đang hoạt động ở chế độ COOL. | 1. Nhấn nút TURBO trên remote.<br>2. Đợi 3 phút, nhấn nút TURBO lần nữa. | Khi bật: Biểu tượng TURBO hiện trên màn hình remote, quạt gió dàn lạnh chạy với công suất cao nhất, tiếng gió thổi mạnh hơn rõ rệt. <br>Khi tắt: Quạt gió quay về tốc độ trước khi kích hoạt. | Khi bật Turbo, quạt chạy ở tốc độ cực đại phát ra tiếng gió lớn. Tắt Turbo quạt trở về tốc độ vừa phải. | PASS |
 | **TC05** | Điều chỉnh tốc độ quạt gió dàn lạnh bằng nút FAN. | Máy lạnh đang bật ở chế độ hoạt động thông thường. | Nhấn nút FAN liên tục để thay đổi các tốc độ quạt: Thấp, Trung bình, Cao, Tự động (Auto). | Tốc độ gió thổi ra từ dàn lạnh thay đổi rõ rệt tương ứng với từng nấc nhấn, ký hiệu tốc độ quạt trên remote cập nhật tương ứng. | Tốc độ quạt thay đổi rõ rệt giữa Low, Med, High và Auto. Động cơ quạt thay đổi tiếng ồn tương ứng. | PASS |
 | **TC06** | Kích hoạt/Tắt chế độ tiết kiệm điện bằng nút ECO. | Máy lạnh đang hoạt động ở chế độ COOL. | 1. Nhấn nút ECO trên remote.<br>2. Nhấn nút ECO một lần nữa để tắt. | Khi bật: Biểu tượng ECO hiển thị trên remote. Máy lạnh chạy ở chế độ tiết kiệm điện (tự động điều chỉnh nhiệt độ tăng nhẹ sau một khoảng thời gian). <br> Khi tắt: Biểu tượng ECO biến mất. | Chế độ Eco hoạt động bình thường, máy nén chạy êm hơn giúp tiết kiệm điện năng. | PASS |
 | **TC07** | Kích hoạt/Tắt chế độ hoạt động im lặng bằng nút MUTE. | Máy lạnh đang hoạt động. | 1. Nhấn nút MUTE trên remote.<br>2. Nhấn nút MUTE một lần nữa để tắt. | Khi bật: Quạt dàn lạnh chuyển sang tốc độ cực thấp, tiếng ồn phát ra giảm xuống tối thiểu. <br> Khi tắt: Quạt quay trở lại tốc độ trước đó. | Hệ thống chuyển sang chế độ hoạt động siêu êm, hầu như không còn nghe tiếng quạt gió dàn lạnh. | PASS |
 | **TC08** | Điều chỉnh cánh đảo gió hướng dọc (lên/xuống) bằng nút SWING (dọc). | Máy lạnh đang bật. | 1. Nhấn nút SWING dọc (nút có biểu tượng cánh đảo gió dọc).<br>2. Nhấn nút SWING dọc lần nữa khi cánh vẫy đến góc mong muốn. | Lần nhấn 1: Cánh đảo gió dọc bắt đầu tự động di chuyển lên xuống liên tục. <br> Lần nhấn 2: Cánh vẫy đứng yên cố định ở góc nghiêng hiện tại. | Cánh đảo gió dọc chuyển động liên tục lên xuống. Dừng lại đúng vị trí mong muốn ở lần bấm thứ hai. | PASS |
-| **TC09** | Điều chỉnh cánh đảo gió hướng ngang (trái/phải) bằng nút SWING (ngang). | Máy lạnh đang hoạt động. | 1. Nhấn nút SWING ngang (nút có biểu tượng các cánh vẫy ngang bên trong).<br>2. Nhấn nút SWING ngang lần nữa để dừng. | Lần nhấn 1: Các cánh hướng gió bên trong bắt đầu chuyển động qua trái và phải tuần hoàn. Lần nhấn 2: Cánh hướng gió dừng xoay cố định. | Các lá hướng gió ngang bên trong xoay đều sang trái/phải và dừng cố định góc khi bấm nút tắt. | PASS |
+| **TC09** | Điều chỉnh cánh đảo gió hướng ngang (trái/phải) bằng nút SWING (ngang). | Máy lạnh đang hoạt động. | 1. Nhấn nút SWING ngang (nút có biểu tượng các cánh vẫy ngang bên trong).<br>2. Nhấn nút SWING ngang lần nữa để dừng. | Lần nhấn 1: Các cánh hướng gió bên trong bắt đầu chuyển động qua trái và phải tuần hoàn. <br> Lần nhấn 2: Cánh hướng gió dừng xoay cố định. | Các lá hướng gió ngang bên trong xoay đều sang trái/phải và dừng cố định góc khi bấm nút tắt. | PASS |
 | **TC10** | Thiết lập thời gian hẹn giờ tắt bằng nút TIMER. | Máy lạnh đang hoạt động. | 1. Nhấn nút TIMER.<br>2. Dùng phím mũi tên Lên/Xuống để chọn thời gian hẹn giờ tắt (ví dụ: 1 giờ).<br>3. Nhấn nút TIMER một lần nữa để xác nhận. | Biểu tượng đồng hồ hẹn giờ sáng lên trên remote/dàn lạnh. Đúng 1 giờ sau, máy lạnh tự động tắt hoàn toàn. | Hẹn giờ tắt 1 tiếng thành công. Đúng 1 giờ sau dàn lạnh kêu bíp ngắn và tự động tắt hoàn toàn. | PASS |
 | **TC11** | Kích hoạt chế độ ngủ đêm bằng nút SLEEP. | Máy lạnh đang chạy ở chế độ COOL. | Nhấn nút SLEEP trên remote. | Biểu tượng SLEEP hiện trên màn hình remote, độ sáng dàn hiển thị giảm bớt. Máy tự động tăng dần nhiệt độ cài đặt (khoảng 1°C mỗi giờ, tối đa 2°C) để không bị lạnh về đêm và tiết kiệm điện. | Độ sáng đèn dàn lạnh giảm, nhiệt độ tự động tăng 1°C sau 1 tiếng giúp ngủ dễ chịu hơn. | PASS |
 | **TC12** | Bật/Tắt màn hình hiển thị LED nhiệt độ trên dàn lạnh bằng nút DISPLAY. | Máy lạnh đang hoạt động, màn hình LED trên dàn lạnh đang hiển thị số nhiệt độ. | 1. Nhấn nút DISPLAY trên remote. <br> 2. Nhấn nút DISPLAY lần nữa. | Lần nhấn 1: Màn hình LED nhiệt độ trên dàn lạnh tắt hoàn toàn. <br> Lần nhấn 2: Màn hình LED nhiệt độ sáng trở lại bình thường. | Màn hình LED nhiệt độ hiển thị trên dàn lạnh tắt/bật ngay lập tức khi bấm nút DISPLAY. | PASS |
-| **TC13** | **Kiểm thử giá trị giới hạn biên của nhiệt độ cài đặt (Boundary Temperature Limits)** | Máy lạnh đang hoạt động ở chế độ COOL. | 1. Nhấn nút giảm nhiệt độ liên tục cho đến khi hiển thị 17°C. Nhấn giảm tiếp 3 lần nữa.<br>2. Nhấn nút tăng nhiệt độ liên tục cho đến khi hiển thị 30°C. Nhấn tăng tiếp 3 lần nữa. | Khi ở mức giới hạn biên dưới (17°C) và biên trên (30°C), hệ thống chặn không cho tăng/giảm thêm, không bị lỗi tràn số hiển thị hoặc đơ vi điều khiển. | Hệ thống hoạt động chính xác ở các điểm giới hạn biên (17°C và 30°C), chặn mọi thao tác vượt ngưỡng cài đặt. | PASS |
-| **TC14** | **Kiểm thử khả năng lọc tín hiệu nhiễu/dội phím (Key Debounce/Flood) của remote** | Máy lạnh đang bật. Hướng remote vào mắt nhận. | Nhấn liên tục phím Tăng/Giảm nhiệt độ trên remote với tốc độ cực nhanh (nhấn dồn dập 5-6 lần trong vòng 1 giây). | Màn hình LED của máy lạnh thay đổi nhiệt độ một cách mượt mà và phát tiếng bíp theo chu kỳ nhận tín hiệu hợp lệ, không xảy ra hiện tượng đơ/treo hệ thống điều khiển của dàn lạnh. | Nhấn nút liên tục không làm đơ hệ thống, nhiệt độ hiển thị tăng/giảm tuần tự mượt mà. | PASS |
+| **TC13** | **Kiểm thử giá trị giới hạn biên của nhiệt độ cài đặt** | Máy lạnh đang hoạt động ở chế độ COOL. | 1. Nhấn nút giảm nhiệt độ liên tục cho đến khi hiển thị 16°C. Nhấn giảm tiếp 3 lần nữa.<br>2. Nhấn nút tăng nhiệt độ liên tục cho đến khi hiển thị 31°C. Nhấn tăng tiếp 3 lần nữa. | Khi ở mức giới hạn biên dưới (16°C) và biên trên (31°C), hệ thống chặn không cho tăng/giảm thêm, không bị lỗi tràn số hiển thị hoặc đơ vi điều khiển. | Hệ thống hoạt động chính xác ở các điểm giới hạn biên (16°C và 31°C), chặn mọi thao tác vượt ngưỡng cài đặt. | PASS |
+| **TC14** | **Kiểm thử khả năng lọc tín hiệu nhiễu/dội phím của remote** | Máy lạnh đang bật. Hướng remote vào mắt nhận. | Nhấn liên tục phím Tăng/Giảm nhiệt độ trên remote với tốc độ cực nhanh (nhấn dồn dập 5-6 lần trong vòng 1 giây). | Màn hình LED của máy lạnh thay đổi nhiệt độ một cách mượt mà và phát tiếng bíp theo chu kỳ nhận tín hiệu hợp lệ, không xảy ra hiện tượng đơ/treo hệ thống điều khiển của dàn lạnh. | Nhấn nút liên tục không làm đơ hệ thống, nhiệt độ hiển thị tăng/giảm tuần tự mượt mà. | PASS |
 | **TC15** | **Kiểm thử cơ chế tự bảo vệ khi cảm biến phòng ghi nhận nhiệt độ môi trường cực hạn** | Máy lạnh đang chạy ổn định. | Dùng máy sấy tóc thổi luồng khí nóng (khoảng 45-50°C) trực tiếp vào cảm biến nhiệt độ phòng trên dàn lạnh trong 30 giây. | Máy lạnh tự động cảm nhận nhiệt độ phòng tăng vọt, điều chỉnh công suất quạt dàn lạnh lên mức tối đa để giải nhiệt hoặc tự động ngắt máy nén và chớp đèn báo lỗi nếu nhiệt độ vượt ngưỡng an toàn cho phép để tránh chập cháy. | Sấy nóng cảm biến khiến quạt chạy hết công suất để làm mát phòng, hoạt động tự bảo vệ ổn định. | PASS |
 
 ---
+
+### Danh sách Video thực thi thực tế
+
+1. **Video test case 1 (Bật/Tắt bằng Remote - TC01):** https://youtube.com/shorts/fv9YJkbTMMA
+2. **Video test case 2 (Tăng/Giảm nhiệt độ - TC02):** https://youtube.com/shorts/ntQ40QuM_DQ
+3. **Video test case 3 (Chuyển chế độ Mode - TC03):** https://youtube.com/shorts/ett-AwF_xxg
+4. **Video test case 4 (Edge case 1 - Giới hạn nhiệt độ biên - TC13):** https://youtube.com/shorts/RbrX21YYOhE
+5. **Video test case 5 (Edge case 2 - Dội phím Remote - TC14):** https://youtube.com/shorts/sjMTFh7jTI8
+
+---
+
+## BÁO CÁO TUÂN THỦ AI
+
+### Đánh giá chất lượng AI (AI Critique)
+
+Trong quá trình làm việc với công cụ AI để hoàn thành báo cáo này, em nhận thấy AI thể hiện thế mạnh lớn trong việc phác thảo cấu trúc tài liệu và đề xuất các kịch bản kiểm thử cơ bản. Tuy nhiên, AI bộc lộ những hạn chế rất lớn về các mặt:
+
+1. **Lỗi logic ở Sơ đồ tư duy:** AI đã nhầm lẫn khi đưa hoạt động Debugging của lập trình viên vào quy trình của Tester, xếp sai phân cấp giữa kiểm thử tĩnh/động, và giới hạn sai phạm vi của kiểm thử hồi quy chỉ ở Unit level.
+2. **Lỗi ảo giác ở Danh sách lỗi:** AI tự động "bịa" ra các đường link nguồn tham khảo trông rất chuyên nghiệp nhưng thực tế khi em nhấn vào đều bị lỗi 404 Not Found.
+3. **Thiếu thực tế ở Kịch bản kiểm thử:** AI chỉ đề xuất các kịch bản bấm nút đơn giản trên remote một cách lý thuyết và giả định mọi thứ hoạt động tốt. Nó hoàn toàn bỏ qua các kịch bản kiểm thử như việc nhấn nút dồn dập, tăng/giảm nhiệt độ chạm các mốc giới hạn biên, hay hành vi tự bảo vệ của cảm biến khi nhiệt độ phòng tăng vọt.
+
+Bài học lớn nhất em rút ra là AI chỉ nên là trợ lý gợi ý khung tài liệu ban đầu, còn việc kiểm chứng và bổ sung các kịch bản kiểm thử thực tế bắt buộc phải do con người thực hiện.
+
+---
+
+### Mandatory Disclosure 
+
+"[Test case / script / dataset / báo cáo] này được sinh phiên bản đầu bởi Gemini 3.5 Flash (Medium); em đã rà soát và chỉnh sửa sơ đồ tư duy vai trò QA/QC, bổ sung các edge cases tự thiết kế cho máy lạnh Reetech; phần phân tích 10 tin tuyển dụng thực tế và phần quay video test thiết bị thật do em tự thực hiện hoàn toàn. AI Audit Report chi tiết đính kèm ở Phụ lục A. Em cam đoan không dùng AI để sinh bất kỳ artifact nào thuộc danh mục bị cấm."
+
+
+## BẢNG TỰ ĐÁNH GIÁ ĐIỂM (SELF-ASSESSMENT)
+
+| STT | Nội dung tiêu chí chấm điểm | Điểm tối đa | Sinh viên tự đánh giá |
+| :---: | :--- | :---: | :---: |
+| 1 | **Yêu cầu 1: Thị trường việc làm QA/QC 2026+** (10 tin tuyển dụng + AI Impact Analysis) | 40 | **40** |
+| 2 | **Yêu cầu 2: 20 Lỗi phần mềm 2022-2026** (Đầy đủ thông tin + 5 lỗi AI + Chỉ ra lỗi ảo giác của AI) | 20 | **20** |
+| 3 | **Yêu cầu 3: Thiết kế test case cho Máy lạnh Reetech** (15 TCs + 5 video demo thực tế) | 25 | **25** |
+| AI-1 | **Báo cáo AI Audit Report [AI-02]** | 8 | **8** |
+| AI-2 | **Đoạn văn AI Critique 200-300 từ + Cam kết Disclosure [AI-03]** | 4 | **4** |
+| AI-3 | **Checklist bảo mật [AI-05] + Nhật ký Prompt** | 3 | **3** |
+| **Tổng** | **Tổng điểm tự đánh giá** | **100** | **100** | |
