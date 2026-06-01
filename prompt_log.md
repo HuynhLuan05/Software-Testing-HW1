@@ -6,7 +6,7 @@
 ---
 
 ## Prompt 1: Đọc và tóm tắt yêu cầu đề bài
-* **Công cụ sử dụng:** Gemini 3.5 Flash (Medium)
+* **Công cụ sử dụng:** Gemini 3.5 Flash
 * **Thời gian thực hiện:** 09:30 29/05/2026
 * **Nội dung Prompt:**
   > Đọc nội dung tệp docx yêu cầu bài tập và tóm tắt các yêu cầu chính mà sinh viên cần thực hiện, các file cần nộp cũng như quy chế tuân thủ AI của học phần này.
@@ -16,7 +16,7 @@
 ---
 
 ## Prompt 2: Tạo sơ đồ tư duy vai trò QA/QC (ISTQB v4.0)
-* **Công cụ sử dụng:** Gemini 3.5 Flash (Medium)
+* **Công cụ sử dụng:** Gemini 3.5 Flash
 * **Thời gian thực hiện:** 18:15 29/05/2026
 * **Nội dung Prompt:**
   > Hãy vẽ một sơ đồ tư duy dạng cây bằng mã Mermaid mô tả vai trò QA/QC và các hoạt động kiểm thử theo chuẩn ISTQB CTFL v4.0.
@@ -26,7 +26,7 @@
 ---
 
 ## Prompt 3: Thiết kế test cases cho thiết bị vật lý
-* **Công cụ sử dụng:** Gemini 3.5 Flash (Medium)
+* **Công cụ sử dụng:** Gemini 3.5 Flash
 * **Thời gian thực hiện:** 21:23 30/05/2026
 * **Nội dung Prompt:**
   > Hãy thiết kế 12 test cases cơ bản cho một máy lạnh gia dụng dựa trên các phím chức năng của remote điều khiển. Trình bày dưới dạng bảng Markdown với các cột: Mã TC, Mục tiêu, Dữ liệu đầu vào, Các bước thực hiện, Kết quả kỳ vọng.
@@ -36,7 +36,7 @@
 ---
 
 ## Prompt 4: Tìm kiếm/Phân tích thông tin lỗi phần mềm
-* **Công cụ sử dụng:** Gemini 3.5 Flash (Medium)
+* **Công cụ sử dụng:** Gemini 3.5 Flash
 * **Thời gian thực hiện:** 13:19 31/05/2026
 * **Nội dung Prompt:**
   > Hãy lập danh sách 20 sự cố/lỗi phần mềm nổi tiếng xảy ra trong giai đoạn 2022–2026, trong đó có ít nhất 5 lỗi liên quan đến AI/LLM (ảo giác, prompt injection, thiên kiến). Với mỗi lỗi cần có: tên sự cố, đường link nguồn, mô tả lỗi, mức độ nghiêm trọng, hậu quả và giải pháp khắc phục.

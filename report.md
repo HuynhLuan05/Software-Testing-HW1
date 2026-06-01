@@ -248,7 +248,7 @@ Bài học lớn nhất em rút ra là AI chỉ nên là trợ lý gợi ý khun
 
 ### Mandatory Disclosure 
 
-"[Test case / script / dataset / báo cáo] này được sinh phiên bản đầu bởi Gemini 3.5 Flash (Medium); em đã rà soát và chỉnh sửa sơ đồ tư duy vai trò QA/QC, bổ sung các edge cases tự thiết kế cho máy lạnh Reetech; phần phân tích 10 tin tuyển dụng thực tế và phần quay video test thiết bị thật do em tự thực hiện hoàn toàn. AI Audit Report chi tiết đính kèm ở Phụ lục A. Em cam đoan không dùng AI để sinh bất kỳ artifact nào thuộc danh mục bị cấm."
+"[Test case / script / dataset / báo cáo] này được sinh phiên bản đầu bởi Gemini 3.5 Flash; em đã rà soát và chỉnh sửa sơ đồ tư duy vai trò QA/QC, bổ sung các edge cases tự thiết kế cho máy lạnh Reetech; phần phân tích 10 tin tuyển dụng thực tế và phần quay video test thiết bị thật do em tự thực hiện hoàn toàn. AI Audit Report chi tiết đính kèm ở Phụ lục A. Em cam đoan không dùng AI để sinh bất kỳ artifact nào thuộc danh mục bị cấm."
 
 
 ## BẢNG TỰ ĐÁNH GIÁ ĐIỂM (SELF-ASSESSMENT)
@@ -260,5 +260,5 @@ Bài học lớn nhất em rút ra là AI chỉ nên là trợ lý gợi ý khun
 | 3 | **Yêu cầu 3: Thiết kế test case cho Máy lạnh Reetech** (15 TCs + 5 video demo thực tế) | 25 | **25** |
 | AI-1 | **Báo cáo AI Audit Report [AI-02]** | 8 | **8** |
 | AI-2 | **Đoạn văn AI Critique 200-300 từ + Cam kết Disclosure [AI-03]** | 4 | **4** |
-| AI-3 | **Checklist bảo mật [AI-05] + Nhật ký Prompt** | 3 | **3** |
+| AI-3 | **Checklist bảo mật [AI-05] + Prompt Log** | 3 | **3** |
 | **Tổng** | **Tổng điểm tự đánh giá** | **100** | **100** | |
